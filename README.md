@@ -1,5 +1,6 @@
 # MYNTRA FASHION-SQL-PROJECT
-This GitHub repository contains an analysis of MYNTRA FASHION DATASET(consist of 526564 unique values & 13 columns) using SQL. The dataset includes information on various aspects like URL, BRANDNAME, CATEGORY, INDIVIDUAL CATEGORY,DISCOUNTED PRICE, DISCOUNTED OFFER, ORIGINAL PRICE, RATINGS , REVIEWS & ETC etc. The goal of this project is to explore and gain insights from the data .
+This GitHub repository contains an analysis of MYNTRA FASHION DATASET(consist of 526564 unique values & 13 columns) using SQL. I created functions, procedure, subqueries, views &  extract information like total revenue, average discount percentage, most common brand, highest rating & etc.The dataset includes information on various aspects like URL, BRANDNAME, CATEGORY, INDIVIDUAL CATEGORY,DISCOUNTED PRICE, DISCOUNTED OFFER, ORIGINAL PRICE, RATINGS , REVIEWS & ETC etc. The goal of this project is to explore and gain insights from the data .
+The data is sourced from https://www.kaggle.com/datasets/manishmathias/myntra-fashion-dataset
 TABLE CONSIST OF :-
 Product_id :- ID of the Product.
 BrandName :- Product Brand Name.
